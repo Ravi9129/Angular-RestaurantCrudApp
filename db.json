@@ -1,0 +1,70 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "pari hotel",
+      "address": "delhi",
+      "email": "ravi@gmail.com",
+      "services": "chai , samosa",
+      "mobile": 1234567890
+    },
+    {
+      "id": 2,
+      "name": "selection",
+      "address": "bangalore",
+      "email": "selection@abc.com",
+      "services": "chai",
+      "mobile": 245346789
+    },
+    {
+      "id": 3,
+      "name": "xzdfcgv",
+      "address": "dfgv",
+      "email": "dxfcgv",
+      "services": "3456",
+      "mobile": 23456
+    },
+    {
+      "id": 4,
+      "name": "bhavana resto",
+      "address": "wert",
+      "email": "sdfgmail.com",
+      "services": "234",
+      "mobile": 23456
+    }
+  ],
+  "signup": [
+    {
+      "name": "arayan hotel 1",
+      "email": "sibashish@abc.com",
+      "mobile": 1234556555,
+      "password": "password@123",
+      "id": 1
+    },
+    {
+      "name": "Selection",
+      "email": "selection@abc.com",
+      "mobile": 3164631649,
+      "password": "passowrd@123",
+      "id": 2
+    },
+    {
+      "name": "Ravi",
+      "email": "Ravi@gmail.com",
+      "mobile": 1234567890,
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "name": "Ravi",
+      "email": "Ravi@gmail.com",
+      "mobile": 1234567890,
+      "password": "12345678",
+      "id": 4
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
